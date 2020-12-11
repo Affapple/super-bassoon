@@ -2,7 +2,7 @@ num1 = input("Escolhe o primeiro numero: ")
 num2 = input("Escolhe o segundo numero": )
 sinal = input("Quer somar (+), subtrair (-), multiplicar (*) ou dividir (/)?: ")
 if num2 == "0" and sinal == "/":
-    print("Divisão por zero!")
+    print("DivisÃ£o por zero!")
     quit()
 if num1 == "0" and num2 == "0" and sinal == "+": 
     print("0 + 0 = 0")
@@ -81411,4 +81411,4 @@ if num1 == "100" and num2 == "99" and sinal == "/":
 if num1 == "100" and num2 == "100" and sinal == "/": 
     print("100 / 100 = 1.0")
 else:
-    print("Erro, número fora dos pretendidos, por favor escolha números entre 0 e 101")
+    print("Erro, nÃºmero fora dos pretendidos, por favor escolha nÃºmeros entre 0 e 101")
