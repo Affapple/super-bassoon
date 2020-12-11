@@ -1,5 +1,5 @@
 num1 = input("Escolhe o primeiro numero: ")
-num2 = input("Escolhe o segundo numero": )
+num2 = input("Escolhe o segundo numero: ")
 sinal = input("Quer somar (+), subtrair (-), multiplicar (*) ou dividir (/)?: ")
 if num2 == "0" and sinal == "/":
     print("Divisão por zero!")
